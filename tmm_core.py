@@ -142,7 +142,7 @@ def interface_t(polarization, n_i, n_f, th_i, th_f):
 
     n_i, n_f are (complex) refractive index for incident and final
 
-    th_i, th_f are (complex) propegation angle for incident and final
+    th_i, th_f are (complex) propagation angles for incident and final
     (in radians, where 0=normal). "th" stands for "theta".
     """
     if polarization == 's':
